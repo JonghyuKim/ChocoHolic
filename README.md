@@ -1,2 +1,2 @@
-# ChocoHolic
-I Like chocolate
+# StrawberryHolic
+I Like strawberry
